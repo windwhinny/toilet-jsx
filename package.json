@@ -1,9 +1,9 @@
 {
   "name": "@mtfe/toilet-jsx",
-  "version": "1.0.0",
-  "repository":{
-    "type" :"git",
-    "url":"https://github.com/windwhinny/toilet-jsx.git"
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/windwhinny/toilet-jsx.git"
   },
   "description": "jsx compiler for toilet",
   "main": "index.js",
@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "browserify": "^9.0.8",
-    "getui": "^0.0.1-unfinished",
-    "react-tools": "^0.13.2"
+    "react-tools": "^0.13.2",
+    "through": "^2.3.7"
   },
   "devDependencies": {},
   "scripts": {
