@@ -1,0 +1,28 @@
+{
+  "name": "@mtfe/toilet-jsx",
+  "version": "1.0.0",
+  "repository":{
+    "type" :"git",
+    "url":"https://github.com/windwhinny/toilet-jsx.git"
+  },
+  "description": "jsx compiler for toilet",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "browserify": "^9.0.8",
+    "getui": "^0.0.1-unfinished",
+    "react-tools": "^0.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsx",
+    "toilet"
+  ],
+  "author": "Eric Time <windwhinny@gmail.com>",
+  "license": "MIT"
+}
