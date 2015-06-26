@@ -1,5 +1,5 @@
 {
-  "name": "@mtfe/toilet-jsx",
+  "name": "toilet-jsx",
   "version": "1.0.1",
   "repository": {
     "type": "git",
@@ -16,9 +16,6 @@
     "through": "^2.3.7"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "jsx",
     "toilet"
